@@ -9,12 +9,12 @@
       "https://example.com/preview/html_basic_2.png",
       "https://example.com/preview/html_basic_code.png"
     ],
-    "download_url": "https://example.com/download/html_basic.zip",
     "tanggal_produk": "2025-06-01",
     "size": "1.2 MB",
     "stock": 100,
     "version": "1.0.0",
-    "status": "active"
+    "status": "active",
+    "download_url": "https://example.com/download/html_basic.zip"
   },
   {
     "id_produk": "web002",
@@ -26,12 +26,12 @@
       "https://example.com/preview/react_2.png",
       "https://example.com/preview/react_code.png"
     ],
-    "download_url": "https://example.com/download/react.zip",
     "tanggal_produk": "2025-06-05",
     "size": "3.5 MB",
     "stock": 50,
     "version": "18.2.0",
-    "status": "active"
+    "status": "active",
+    "download_url": "https://example.com/download/react.zip"
   },
   {
     "id_produk": "web003",
@@ -43,12 +43,12 @@
       "https://example.com/preview/laravel_2.png",
       "https://example.com/preview/laravel_code.png"
     ],
-    "download_url": "https://example.com/download/laravel.zip",
     "tanggal_produk": "2025-06-10",
     "size": "5.0 MB",
     "stock": 30,
     "version": "10.0.0",
-    "status": "active"
+    "status": "active",
+    "download_url": "https://example.com/download/laravel.zip"
   },
   {
     "id_produk": "web004",
@@ -60,12 +60,12 @@
       "https://example.com/preview/vuejs_2.png",
       "https://example.com/preview/vuejs_code.png"
     ],
-    "download_url": "https://example.com/download/vuejs.zip",
     "tanggal_produk": "2025-06-12",
     "size": "2.8 MB",
     "stock": 60,
     "version": "3.4.0",
-    "status": "active"
+    "status": "active",
+    "download_url": "https://example.com/download/vuejs.zip"
   },
   {
     "id_produk": "web005",
@@ -77,12 +77,12 @@
       "https://example.com/preview/astrojs_2.png",
       "https://example.com/preview/astrojs_code.png"
     ],
-    "download_url": "https://example.com/download/astrojs.zip",
     "tanggal_produk": "2025-06-15",
     "size": "2.0 MB",
     "stock": 40,
     "version": "4.0.0",
-    "status": "active"
+    "status": "active",
+    "download_url": "https://example.com/download/astrojs.zip"
   },
   {
     "id_produk": "web006",
@@ -94,12 +94,12 @@
       "https://example.com/preview/phpnative_2.png",
       "https://example.com/preview/phpnative_code.png"
     ],
-    "download_url": "https://example.com/download/phpnative.zip",
     "tanggal_produk": "2025-06-18",
     "size": "1.5 MB",
     "stock": 80,
     "version": "8.2.0",
-    "status": "active"
+    "status": "active",
+    "download_url": "https://example.com/download/phpnative.zip"
   },
   {
     "id_produk": "web007",
@@ -111,12 +111,12 @@
       "https://example.com/preview/nextjs_2.png",
       "https://example.com/preview/nextjs_code.png"
     ],
-    "download_url": "https://example.com/download/nextjs.zip",
     "tanggal_produk": "2025-06-20",
     "size": "3.0 MB",
     "stock": 35,
     "version": "14.0.0",
-    "status": "active"
+    "status": "active",
+    "download_url": "https://example.com/download/nextjs.zip"
   },
   {
     "id_produk": "web008",
@@ -128,12 +128,12 @@
       "https://example.com/preview/nuxtjs_2.png",
       "https://example.com/preview/nuxtjs_code.png"
     ],
-    "download_url": "https://example.com/download/nuxtjs.zip",
     "tanggal_produk": "2025-06-20",
     "size": "3.2 MB",
     "stock": 30,
     "version": "3.6.0",
-    "status": "active"
+    "status": "active",
+    "download_url": "https://example.com/download/nuxtjs.zip"
   },
   {
     "id_produk": "mob001",
@@ -145,12 +145,12 @@
       "https://example.com/preview/flutter_2.png",
       "https://example.com/preview/flutter_code.png"
     ],
-    "download_url": "https://example.com/download/flutter.zip",
     "tanggal_produk": "2025-06-20",
     "size": "4.0 MB",
     "stock": 25,
     "version": "3.10.0",
-    "status": "active"
+    "status": "active",
+    "download_url": "https://example.com/download/flutter.zip"
   },
   {
     "id_produk": "mob002",
@@ -162,12 +162,12 @@
       "https://example.com/preview/androidstudio_2.png",
       "https://example.com/preview/androidstudio_code.png"
     ],
-    "download_url": "https://example.com/download/androidstudio.zip",
     "tanggal_produk": "2025-06-22",
     "size": "6.0 MB",
     "stock": 20,
     "version": "2024.1.1",
-    "status": "active"
+    "status": "active",
+    "download_url": "https://example.com/download/androidstudio.zip"
   },
   {
     "id_produk": "mob003",
@@ -179,12 +179,12 @@
       "https://example.com/preview/reactnative_2.png",
       "https://example.com/preview/reactnative_code.png"
     ],
-    "download_url": "https://example.com/download/reactnative.zip",
     "tanggal_produk": "2025-06-25",
     "size": "3.8 MB",
     "stock": 35,
     "version": "0.74.0",
-    "status": "active"
+    "status": "active",
+    "download_url": "https://example.com/download/reactnative.zip"
   },
   {
     "id_produk": "mob004",
@@ -196,11 +196,11 @@
       "https://example.com/preview/unitystudio_2.png",
       "https://example.com/preview/unitystudio_code.png"
     ],
-    "download_url": "https://example.com/download/unitystudio.zip",
     "tanggal_produk": "2025-06-27",
     "size": "10.0 MB",
     "stock": 15,
     "version": "2023.2.0",
-    "status": "active"
+    "status": "active",
+    "download_url": "https://example.com/download/unitystudio.zip"
   }
 ]
