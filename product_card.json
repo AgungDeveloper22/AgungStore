@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": "web001",
+      "name": "HTML Basic",
+      "category": "Web Development",
+      "category_id": "cat_web",
+      "slug": "html-basic",
+      "icon": "https://example.com/icons/html_basic.png"
+    },
+    {
+      "id": "web002",
+      "name": "React",
+      "category": "Web Development",
+      "category_id": "cat_web",
+      "slug": "react",
+      "icon": "https://example.com/icons/react.png"
+    },
+    {
+      "id": "web003",
+      "name": "Laravel",
+      "category": "Web Development",
+      "category_id": "cat_web",
+      "slug": "laravel",
+      "icon": "https://example.com/icons/laravel.png"
+    },
+    {
+      "id": "web004",
+      "name": "Vue.js",
+      "category": "Web Development",
+      "category_id": "cat_web",
+      "slug": "vue-js",
+      "icon": "https://example.com/icons/vuejs.png"
+    },
+    {
+      "id": "web005",
+      "name": "Astro.js",
+      "category": "Web Development",
+      "category_id": "cat_web",
+      "slug": "astro-js",
+      "icon": "https://example.com/icons/astrojs.png"
+    },
+    {
+      "id": "web006",
+      "name": "PHP Native",
+      "category": "Web Development",
+      "category_id": "cat_web",
+      "slug": "php-native",
+      "icon": "https://example.com/icons/phpnative.png"
+    },
+    {
+      "id": "web007",
+      "name": "Next.js",
+      "category": "Web Development",
+      "category_id": "cat_web",
+      "slug": "next-js",
+      "icon": "https://example.com/icons/nextjs.png"
+    },
+    {
+      "id": "web008",
+      "name": "Nuxt.js",
+      "category": "Web Development",
+      "category_id": "cat_web",
+      "slug": "nuxt-js",
+      "icon": "https://example.com/icons/nuxtjs.png"
+    },
+    {
+      "id": "mob001",
+      "name": "Flutter",
+      "category": "Mobile Development",
+      "category_id": "cat_mobile",
+      "slug": "flutter",
+      "icon": "https://example.com/icons/flutter.png"
+    },
+    {
+      "id": "mob002",
+      "name": "Android Studio",
+      "category": "Mobile Development",
+      "category_id": "cat_mobile",
+      "slug": "android-studio",
+      "icon": "https://example.com/icons/androidstudio.png"
+    },
+    {
+      "id": "mob003",
+      "name": "React Native",
+      "category": "Mobile Development",
+      "category_id": "cat_mobile",
+      "slug": "react-native",
+      "icon": "https://example.com/icons/reactnative.png"
+    },
+    {
+      "id": "mob004",
+      "name": "Unity Studio",
+      "category": "Mobile Development",
+      "category_id": "cat_mobile",
+      "slug": "unity-studio",
+      "icon": "https://example.com/icons/unitystudio.png"
+    }
+  ]
+}
