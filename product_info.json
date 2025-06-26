@@ -9,6 +9,7 @@
       "https://example.com/preview/html_basic_2.png",
       "https://example.com/preview/html_basic_code.png"
     ],
+    "download_url": "https://example.com/download/html_basic.zip",
     "tanggal_produk": "2025-06-01",
     "size": "1.2 MB",
     "stock": 100,
@@ -25,6 +26,7 @@
       "https://example.com/preview/react_2.png",
       "https://example.com/preview/react_code.png"
     ],
+    "download_url": "https://example.com/download/react.zip",
     "tanggal_produk": "2025-06-05",
     "size": "3.5 MB",
     "stock": 50,
@@ -41,6 +43,7 @@
       "https://example.com/preview/laravel_2.png",
       "https://example.com/preview/laravel_code.png"
     ],
+    "download_url": "https://example.com/download/laravel.zip",
     "tanggal_produk": "2025-06-10",
     "size": "5.0 MB",
     "stock": 30,
@@ -57,6 +60,7 @@
       "https://example.com/preview/vuejs_2.png",
       "https://example.com/preview/vuejs_code.png"
     ],
+    "download_url": "https://example.com/download/vuejs.zip",
     "tanggal_produk": "2025-06-12",
     "size": "2.8 MB",
     "stock": 60,
@@ -73,6 +77,7 @@
       "https://example.com/preview/astrojs_2.png",
       "https://example.com/preview/astrojs_code.png"
     ],
+    "download_url": "https://example.com/download/astrojs.zip",
     "tanggal_produk": "2025-06-15",
     "size": "2.0 MB",
     "stock": 40,
@@ -89,6 +94,7 @@
       "https://example.com/preview/phpnative_2.png",
       "https://example.com/preview/phpnative_code.png"
     ],
+    "download_url": "https://example.com/download/phpnative.zip",
     "tanggal_produk": "2025-06-18",
     "size": "1.5 MB",
     "stock": 80,
@@ -105,6 +111,7 @@
       "https://example.com/preview/nextjs_2.png",
       "https://example.com/preview/nextjs_code.png"
     ],
+    "download_url": "https://example.com/download/nextjs.zip",
     "tanggal_produk": "2025-06-20",
     "size": "3.0 MB",
     "stock": 35,
@@ -121,6 +128,7 @@
       "https://example.com/preview/nuxtjs_2.png",
       "https://example.com/preview/nuxtjs_code.png"
     ],
+    "download_url": "https://example.com/download/nuxtjs.zip",
     "tanggal_produk": "2025-06-20",
     "size": "3.2 MB",
     "stock": 30,
@@ -137,6 +145,7 @@
       "https://example.com/preview/flutter_2.png",
       "https://example.com/preview/flutter_code.png"
     ],
+    "download_url": "https://example.com/download/flutter.zip",
     "tanggal_produk": "2025-06-20",
     "size": "4.0 MB",
     "stock": 25,
@@ -153,6 +162,7 @@
       "https://example.com/preview/androidstudio_2.png",
       "https://example.com/preview/androidstudio_code.png"
     ],
+    "download_url": "https://example.com/download/androidstudio.zip",
     "tanggal_produk": "2025-06-22",
     "size": "6.0 MB",
     "stock": 20,
@@ -169,6 +179,7 @@
       "https://example.com/preview/reactnative_2.png",
       "https://example.com/preview/reactnative_code.png"
     ],
+    "download_url": "https://example.com/download/reactnative.zip",
     "tanggal_produk": "2025-06-25",
     "size": "3.8 MB",
     "stock": 35,
@@ -185,6 +196,7 @@
       "https://example.com/preview/unitystudio_2.png",
       "https://example.com/preview/unitystudio_code.png"
     ],
+    "download_url": "https://example.com/download/unitystudio.zip",
     "tanggal_produk": "2025-06-27",
     "size": "10.0 MB",
     "stock": 15,
