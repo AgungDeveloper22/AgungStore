@@ -1,1 +1,194 @@
-
+[
+  {
+    "id_produk": "web001",
+    "nama_produk": "HTML Basic",
+    "description": "Template website sederhana menggunakan HTML dan CSS untuk pemula.\n\n**Perintah Instalasi:**\n```bash\n# Tidak perlu instalasi, langsung gunakan di browser\n```",
+    "harga": 50000,
+    "previews": [
+      "https://example.com/preview/html_basic_1.png",
+      "https://example.com/preview/html_basic_2.png",
+      "https://example.com/preview/html_basic_code.png"
+    ],
+    "tanggal_produk": "2025-06-01",
+    "size": "1.2 MB",
+    "stock": 100,
+    "version": "1.0.0",
+    "status": "active"
+  },
+  {
+    "id_produk": "web002",
+    "nama_produk": "React",
+    "description": "Aplikasi web dinamis berbasis React dengan fitur modern dan responsif.\n\n**Perintah Instalasi:**\n```bash\nnpm install\nnpm start\n```",
+    "harga": 150000,
+    "previews": [
+      "https://example.com/preview/react_1.png",
+      "https://example.com/preview/react_2.png",
+      "https://example.com/preview/react_code.png"
+    ],
+    "tanggal_produk": "2025-06-05",
+    "size": "3.5 MB",
+    "stock": 50,
+    "version": "18.2.0",
+    "status": "active"
+  },
+  {
+    "id_produk": "web003",
+    "nama_produk": "Laravel",
+    "description": "Sistem manajemen konten berbasis Laravel dengan fitur lengkap.\n\n**Perintah Instalasi:**\n```bash\ncomposer install\nphp artisan serve\n```",
+    "harga": 200000,
+    "previews": [
+      "https://example.com/preview/laravel_1.png",
+      "https://example.com/preview/laravel_2.png",
+      "https://example.com/preview/laravel_code.png"
+    ],
+    "tanggal_produk": "2025-06-10",
+    "size": "5.0 MB",
+    "stock": 30,
+    "version": "10.0.0",
+    "status": "active"
+  },
+  {
+    "id_produk": "web004",
+    "nama_produk": "Vue.js",
+    "description": "Template website interaktif menggunakan Vue.js dengan desain modern.\n\n**Perintah Instalasi:**\n```bash\nnpm install\nnpm run dev\n```",
+    "harga": 120000,
+    "previews": [
+      "https://example.com/preview/vuejs_1.png",
+      "https://example.com/preview/vuejs_2.png",
+      "https://example.com/preview/vuejs_code.png"
+    ],
+    "tanggal_produk": "2025-06-12",
+    "size": "2.8 MB",
+    "stock": 60,
+    "version": "3.4.0",
+    "status": "active"
+  },
+  {
+    "id_produk": "web005",
+    "nama_produk": "Astro.js",
+    "description": "Website performa tinggi menggunakan Astro.js untuk SEO optimal.\n\n**Perintah Instalasi:**\n```bash\nnpm install\nnpm run dev\n```",
+    "harga": 180000,
+    "previews": [
+      "https://example.com/preview/astrojs_1.png",
+      "https://example.com/preview/astrojs_2.png",
+      "https://example.com/preview/astrojs_code.png"
+    ],
+    "tanggal_produk": "2025-06-15",
+    "size": "2.0 MB",
+    "stock": 40,
+    "version": "4.0.0",
+    "status": "active"
+  },
+  {
+    "id_produk": "web006",
+    "nama_produk": "PHP Native",
+    "description": "Aplikasi web sederhana menggunakan PHP native untuk kebutuhan dasar.\n\n**Perintah Instalasi:**\n```bash\n# Siapkan server PHP (misalnya XAMPP)\nphp -S localhost:8000\n```",
+    "harga": 80000,
+    "previews": [
+      "https://example.com/preview/phpnative_1.png",
+      "https://example.com/preview/phpnative_2.png",
+      "https://example.com/preview/phpnative_code.png"
+    ],
+    "tanggal_produk": "2025-06-18",
+    "size": "1.5 MB",
+    "stock": 80,
+    "version": "8.2.0",
+    "status": "active"
+  },
+  {
+    "id_produk": "web007",
+    "nama_produk": "Next.js",
+    "description": "Aplikasi web modern dengan Next.js untuk performa dan SEO terbaik.\n\n**Perintah Instalasi:**\n```bash\nnpm install\nnpm run dev\n```",
+    "harga": 200000,
+    "previews": [
+      "https://example.com/preview/nextjs_1.png",
+      "https://example.com/preview/nextjs_2.png",
+      "https://example.com/preview/nextjs_code.png"
+    ],
+    "tanggal_produk": "2025-06-20",
+    "size": "3.0 MB",
+    "stock": 35,
+    "version": "14.0.0",
+    "status": "active"
+  },
+  {
+    "id_produk": "web008",
+    "nama_produk": "Nuxt.js",
+    "description": "Template website dinamis menggunakan Nuxt.js dengan SSR support.\n\n**Perintah Instalasi:**\n```bash\nnpm install\nnpm run dev\n```",
+    "harga": 190000,
+    "previews": [
+      "https://example.com/preview/nuxtjs_1.png",
+      "https://example.com/preview/nuxtjs_2.png",
+      "https://example.com/preview/nuxtjs_code.png"
+    ],
+    "tanggal_produk": "2025-06-20",
+    "size": "3.2 MB",
+    "stock": 30,
+    "version": "3.6.0",
+    "status": "active"
+  },
+  {
+    "id_produk": "mob001",
+    "nama_produk": "Flutter",
+    "description": "Template aplikasi mobile menggunakan Flutter dengan UI responsif.\n\n**Perintah Instalasi:**\n```bash\nflutter pub get\nflutter run\n```",
+    "harga": 250000,
+    "previews": [
+      "https://example.com/preview/flutter_1.png",
+      "https://example.com/preview/flutter_2.png",
+      "https://example.com/preview/flutter_code.png"
+    ],
+    "tanggal_produk": "2025-06-20",
+    "size": "4.0 MB",
+    "stock": 25,
+    "version": "3.10.0",
+    "status": "active"
+  },
+  {
+    "id_produk": "mob002",
+    "nama_produk": "Android Studio",
+    "description": "Aplikasi Android native dengan fitur lengkap menggunakan Android Studio.\n\n**Perintah Instalasi:**\n```bash\ngradle build\n# Buka di Android Studio dan jalankan\n```",
+    "harga": 220000,
+    "previews": [
+      "https://example.com/preview/androidstudio_1.png",
+      "https://example.com/preview/androidstudio_2.png",
+      "https://example.com/preview/androidstudio_code.png"
+    ],
+    "tanggal_produk": "2025-06-22",
+    "size": "6.0 MB",
+    "stock": 20,
+    "version": "2024.1.1",
+    "status": "active"
+  },
+  {
+    "id_produk": "mob003",
+    "nama_produk": "React Native",
+    "description": "Aplikasi mobile cross-platform menggunakan React Native.\n\n**Perintah Instalasi:**\n```bash\nnpm install\nnpx react-native run-android\n# atau npx react-native run-ios\n```",
+    "harga": 200000,
+    "previews": [
+      "https://example.com/preview/reactnative_1.png",
+      "https://example.com/preview/reactnative_2.png",
+      "https://example.com/preview/reactnative_code.png"
+    ],
+    "tanggal_produk": "2025-06-25",
+    "size": "3.8 MB",
+    "stock": 35,
+    "version": "0.74.0",
+    "status": "active"
+  },
+  {
+    "id_produk": "mob004",
+    "nama_produk": "Unity Studio",
+    "description": "Game mobile interaktif menggunakan Unity Studio dengan grafis 3D.\n\n**Perintah Instalasi:**\n```bash\n# Buka project di Unity Editor\n# Build dari Unity Editor\n```",
+    "harga": 300000,
+    "previews": [
+      "https://example.com/preview/unitystudio_1.png",
+      "https://example.com/preview/unitystudio_2.png",
+      "https://example.com/preview/unitystudio_code.png"
+    ],
+    "tanggal_produk": "2025-06-27",
+    "size": "10.0 MB",
+    "stock": 15,
+    "version": "2023.2.0",
+    "status": "active"
+  }
+]
